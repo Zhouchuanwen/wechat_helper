@@ -32,10 +32,4 @@
     或者觉得这个插件能带来方便，可以打赏一杯咖啡哟～,这样up主更加有动力啦(。・`ω´・)
 
 
-![image](https://github.com/Zhouchuanwen/wechat_helper/img/weixinzhifu.png)
-
-
-
-
-
-
+![image](https://github.com/Zhouchuanwen/wechat_helper/blob/master/img/weixinzhifu.jpg)
