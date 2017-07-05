@@ -15,9 +15,11 @@
 
 ### 实现效果：
 
-![image](https://github.com/Zhouchuanwen/wechat_helper/img/test3.jpg)
-![image](https://github.com/Zhouchuanwen/wechat_helper/img/test1.jpg)
-![image](https://github.com/Zhouchuanwen/wechat_helper/img/test2.jpg)
+在Chrome浏览器上:
+
+![image](https://github.com/Zhouchuanwen/wechat_helper/tree/master/img/test3.jpg)
+![image](https://github.com/Zhouchuanwen/wechat_helper/tree/master/img/test1.jpg)
+![image](https://github.com/Zhouchuanwen/wechat_helper/tree/master/img/test2.jpg)
 
 
 ### 关于作者：
@@ -28,7 +30,8 @@
 
     如果您对微信公众号文章数据抓取需要解决方案,可以联系我呀～，或者觉得这个插件能带来方便，可以打赏一杯咖啡哟～,这样up主更加有动力啦(。・`ω´・)
 
-    ![image](https://github.com/Zhouchuanwen/wechat_helper/img/weixinzhifu.jpg)
+
+![image](https://github.com/Zhouchuanwen/wechat_helper/img/weixinzhifu.jpg)
 
 
 
