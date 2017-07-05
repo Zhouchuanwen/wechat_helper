@@ -18,8 +18,8 @@
 在Chrome浏览器上:
 
 ![image](https://github.com/Zhouchuanwen/wechat_helper/blob/master/img/test3.png)
-![image](https://github.com/Zhouchuanwen/wechat_helper/blob/master/img/test1.jpg)
-![image](https://github.com/Zhouchuanwen/wechat_helper/blob/master/img/test2.jpg)
+![image](https://github.com/Zhouchuanwen/wechat_helper/blob/master/img/test1.png)
+![image](https://github.com/Zhouchuanwen/wechat_helper/blob/master/img/test2.png)
 
 
 ### 关于作者：
@@ -32,7 +32,7 @@
     或者觉得这个插件能带来方便，可以打赏一杯咖啡哟～,这样up主更加有动力啦(。・`ω´・)
 
 
-![image](https://github.com/Zhouchuanwen/wechat_helper/img/weixinzhifu.jpg)
+![image](https://github.com/Zhouchuanwen/wechat_helper/img/weixinzhifu.png)
 
 
 
