@@ -51,8 +51,6 @@
 在Chrome浏览器上:
 
 ![image](https://github.com/Zhouchuanwen/wechat_helper/blob/master/img/test3.png)
-![image](https://github.com/Zhouchuanwen/wechat_helper/blob/master/img/test1.png)
-![image](https://github.com/Zhouchuanwen/wechat_helper/blob/master/img/test2.png)
 
 
 
